@@ -1,6 +1,6 @@
 # 💸 Pengelola Keuangan (Money Tracker)
 
-Aplikasi web progresif (PWA) pencatat keuangan modern, ringan, dan responsif dengan pengalaman pengguna setara aplikasi native. Terinspirasi dari alur kerja *Money Manager*, aplikasi ini dirancang untuk memudahkan pelacakan pengeluaran, pemasukan, serta transfer antar-dompet secara instan dan aman tanpa pelacak pihak ketiga.
+Aplikasi web progresif pencatat keuangan modern, ringan, dan responsif dengan pengalaman pengguna setara aplikasi native. Terinspirasi dari alur kerja *Money Manager*, aplikasi ini dirancang untuk memudahkan pelacakan pengeluaran, pemasukan, serta transfer antar-dompet secara instan dan aman tanpa pelacak pihak ketiga.
 
 🌐 **Demo Langsung:** [raf446.github.io/Penghitung-Keuangan](https://raf446.github.io/Penghitung-Keuangan/)
 
